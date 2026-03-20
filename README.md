@@ -1,9 +1,33 @@
 **Overview** 
-The goal is to minimize the total electricity cost for meeting cooling demand for 8760 hours. It considers three main cooling sources: snow storage, a chilled water tank, and an electric chiller. It is formulated as Mixed-Integer Linear Programming (MILP) problem. There are eight decision variables and CBC solver for optimal values. 
 
+The advantages of winter climate are often overlooked. The cold thermal energy can be exploited for cooling applications. The snow cooling facility in Sundsvall, Sweden and Oslo, Norway are the living examples. It shows the potential to solve rising cooling demand sustainably and utilise stored snow for useful purpose.  
+ 
+ 💡 Highlights: 💡
+- Integration of CTES based on multiple configuraitons i.e ice storage, snow cooling, and ice/snow combination.
+- Technical design and control strategies to maximize the economic potential of electrical energy and snow storage.
+- Detailed performance analysis under different climatic conditions and urban characteristics of winter cities
 
-Custom GPT
+**Examples**
 
-Expainer Video
+It is aimed to provide required data and information to run demo case studies
+- Tallinn
+- Gotenburg
+- Vienna
 
-References 
+**Useful Resources**
+
+- Literature database
+- Custom GPT
+- Expainer Video
+
+**Contributions/Support**
+
+Any information related to snow storage and utilisation is benefical. Contributions are welcome in the form of bug detection, doubts/questions, code improvements etc
+
+Active contributors: Sreenath, Siim Erik
+
+Alumni: NA
+
+**Acknowledgement**
+
+This work is supported by Estonian Research Council.  
