@@ -1,8 +1,12 @@
 **Overview** 
 
 The advantages of winter climate are often overlooked. The cold thermal energy can be exploited for cooling applications. The snow cooling facility in Sundsvall, Sweden and Oslo, Norway are the living examples. It shows the potential to solve rising cooling demand sustainably and utilise stored snow for useful purpose.  
- 
- 💡 Highlights: 💡
+
+<p align="center">
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5a5e6db4-f69b-4618-8450-7f17e33c6b25" />
+</p>
+
+💡 Highlights: 💡
 - Integration of CTES based on multiple configuraitons i.e ice storage, snow cooling, and ice/snow combination.
 - Technical design and control strategies to maximize the economic potential of electrical energy and snow storage.
 - Detailed performance analysis under different climatic conditions and urban characteristics of winter cities
