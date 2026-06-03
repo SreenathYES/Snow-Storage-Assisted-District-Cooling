@@ -12,6 +12,7 @@ Highlights:
 - Detailed performance analysis under different climatic conditions and urban characteristics of winter cities.
 
 **Examples**
+
 (in progress)
 It is aimed to provide required data and information to run demo case studies
 - Tallinn
@@ -19,12 +20,14 @@ It is aimed to provide required data and information to run demo case studies
 - Vienna
 
 **Useful Resources**
+
 (in progress)
 - Literature database
 - Custom GPT
 - Expainer Video
 
 **Contributions/Support**
+
 Any information related to snow storage and utilisation is benefical. Contributions are welcome in the form of bug detection, doubts/questions, code improvements etc
 
 Active contributors: Sreenath, Siim Erik
@@ -32,5 +35,6 @@ Active contributors: Sreenath, Siim Erik
 Alumni: NA
 
 **Acknowledgement**
+
 This work was supported by the Estonian Research Council grant (MOB3JD1230). 
 Disclaimer: The funding agency, affiliated organization and authors are not legally responsible for the information and views expressed in this poster
