@@ -10,11 +10,11 @@ The advantages of winter climate are often overlooked. The cold thermal energy c
 
 **Useful Resources**
 
-- Excel based calculation tool to estimate levelised cost of cooling (LCOC) and compare different cold supply options from custimer's perespective. It is based on methodology reported in EU funded ReUseHeat project.
+- Excel based calculation tool to estimate levelised cost of cooling (LCOC) and compare different cold supply options from custimer's perespective. It is based on methodology reported in EU funded ReUseHeat project. https://doi.org/10.5281/zenodo.20592171
   
 - Explainer video on snow assisted district cooling system - https://videopress.com/v/0bdNsdhh
 
-- Literature database - 
+- Literature database - in preparation
   
 - Custom GPT - under internal review
 
